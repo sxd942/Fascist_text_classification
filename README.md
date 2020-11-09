@@ -1,4 +1,6 @@
 ReadME file for Siôn Davies: Machine Learning for Fascist Text Classification in Social Networks.
+@Author: Siôn William Davies
+@Date: September 2020
 
 REPOSITORY OVERVIEW:
 
